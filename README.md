@@ -1,7 +1,3 @@
-# coresky_bot
-Invitation： https://share.coresky.com/dtsfy5/tasks-rewards
-
-
 # Coresky 自动签到机器人
 
 这是一个用于自动完成 Coresky 平台每日签到任务的 Node.js 脚本。
