@@ -1,5 +1,6 @@
 import { workerData, parentPort } from 'worker_threads';
 import { ethers } from 'ethers';
+import { SocksProxyAgent } from 'socks-proxy-agent';
 import axios from 'axios';
 import chalk from 'chalk';
 
